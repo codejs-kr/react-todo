@@ -1,0 +1,18 @@
+#form-wrap {
+  padding: 20px 10px;
+  text-align: center;
+}
+#form-wrap input {
+  margin-right: 10px;
+  width: calc(100% - 120px);
+  height: 40px;
+  padding: 5px;
+  vertical-align: top;
+}
+#form-wrap button {
+  width: 100px;
+  height: 40px;
+  background: #8937DF;
+  border: none;
+  color: #fff;
+}

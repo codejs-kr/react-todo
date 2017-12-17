@@ -1,0 +1,17 @@
+main {
+  margin: 100px auto;
+  width: 512px;
+  border: solid 1px #bbb;
+}
+header {
+  height: 100px;
+  line-height: 100px;
+  color: #fff;
+  font-size: 2em;
+  background: blueviolet;
+  text-align: center;
+}
+#form-section {
+  border-top: solid 1px #bbb;
+  border-bottom: solid 1px #bbb;
+}

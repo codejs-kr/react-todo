@@ -1,0 +1,9 @@
+#palette-wrap {
+  text-align: center;
+}
+#palette-wrap button {
+  display: inline-block;
+  margin: 10px 5px;
+  width: 30px;
+  height: 30px;
+}
